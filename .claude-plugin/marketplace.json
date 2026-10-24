@@ -1,0 +1,11 @@
+{
+  "name": "folem",
+  "owner": { "name": "Vinicius Folem" },
+  "plugins": [
+    {
+      "name": "folem",
+      "source": "./",
+      "description": "FOLEM.EXE 7.0 — mentor brutal de negócios digitais (Gary Halbert + Navy SEAL + HBO)."
+    }
+  ]
+}
